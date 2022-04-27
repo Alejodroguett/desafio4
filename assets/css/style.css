@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient(-225deg, #5271C4 0%, #B19FFF 48%, #ECA1FE 100%);
+}
+header{
+    background-color: #6610f2;
+}
+.insgrm:hover{
+    background-image: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d)
+    
+}
+.fbbk:hover{
+    background-image: linear-gradient(120deg, #3b5998, #FFFFFF);;
+}
+.twtr:hover{
+    background-image: linear-gradient(45deg, #66757f, #00ACEE, #36D8FF, #f5f8fa, #ffffff);;
+}
+.real_price{
+    color: gray;
+    display: inline-block;
+    text-decoration: line-through;
+}
+.sell_item:hover{
+    background-color: #5851db;
+}
+footer{
+    background: rgb(102,16,242);
+}
+
